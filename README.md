@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jean-Pierre de Jager
 - 👀 I’m interested in Web Development, DBMS, SQL
-- 🌱 I’m currently honing more down on web development
+- 🌱 I’m currently honing my skills on web development
 - 📫 How to reach me jpdejager24@gmail.com
 
 <!---
